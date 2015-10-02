@@ -1,3 +1,5 @@
+## Written by Brian Warehime (@brian_warehime, nullsecure.org) and Ethan Dodge (@__eth0, dodgesec.com)
+
 #!/usr/bin/python
 from __future__ import print_function
 import socket
